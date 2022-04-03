@@ -27,3 +27,12 @@ Here we have a dataset of weather conditions and a corresponding target variable
 
 
 3) Now, use the Bayes theorem to calculate the posterior probability
+
+
+
+**Have doubts? Need help? Contact me!**
+
+**LinkedIn:** https://www.linkedin.com/in/dharmaraj-d-1b707898
+
+**Blogs:** https://medium.com/@draj0718
+
